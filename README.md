@@ -1,4 +1,4 @@
-# Title : Guessing Gender Using Student's Course Plan
+# Title : Guessing Students Gender by their Course Plan
 Project for the NTDS course (2019).
 * Team: 1
 * Students: Magnin Jonathan, Nonaca Darja, Shmeis Zeinab, Wang Shu
