@@ -7,6 +7,7 @@ Project for the NTDS course (2019).
 This project discuesses two  central  questions: 
   - Is  there  a  gender difference  in  the  course  selection  plans  of  EPFL  student?
   - Can  we  predict student’s gender given his/her courses?
+  
 To answer these questions, we use EPFL students database available on "https://www.epfl.ch/campus/services/ressources/is-academia/acces/accesspublic-bachelor-master/"
 
 
