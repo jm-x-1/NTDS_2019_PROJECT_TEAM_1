@@ -1,4 +1,4 @@
-# Title : HOW IS GENDER DISTRIBUTED ON EPFL CAMPUS AND CAN WE PREDICT IT ?
+# Title : Gender Guess Using Student's Course Plan
 Project for the NTDS course (2019).
 * Team: 1
 * Students: Magnin Jonathan, Nonaca Darja, Shmeis Zeinab, Wang Shu
