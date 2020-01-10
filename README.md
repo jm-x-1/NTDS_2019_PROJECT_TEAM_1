@@ -4,6 +4,9 @@ Project for the NTDS course (2019).
 * Students: Magnin Jonathan, Nonaca Darja, Shmeis Zeinab, Wang Shu
 
 ## Quick Description :
-This project uses EPFL students database to visualize gender distribution over the campus (i.e. in every section or faculty). It also attempt to predict a student gender given its choice of courses.
+This project discuesses two  central  questions: 
+  - Is  there  a  gender difference  in  the  course  selection  plans  of  EPFL  student?
+  - Can  we  predict student’s gender given his/her courses?
+To answer these questions, we use EPFL students database available on "https://www.epfl.ch/campus/services/ressources/is-academia/acces/accesspublic-bachelor-master/"
 
 
